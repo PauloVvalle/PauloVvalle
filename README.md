@@ -17,7 +17,8 @@ Olá! Eu sou um apaixonado por programação e jogos. Atualmente, estou cursando
 
 ## 📫 Contato
 
-- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/paulo-roberto-vasques-valle-a37600274/)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/paulo-roberto-vasques-valle-a37600274/)<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+          
 
 <!--
 **PauloVvalle/PauloVvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
