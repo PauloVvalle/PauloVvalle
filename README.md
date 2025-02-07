@@ -17,7 +17,11 @@ Olá! Eu sou um apaixonado por programação e jogos. Atualmente, estou cursando
 
 ## 📫 Contato
 
-- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/paulo-roberto-vasques-valle-a37600274/)<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+- **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)
+
+
+            
+          
           
 
 <!--
