@@ -19,10 +19,6 @@ Olá! Eu sou um apaixonado por programação e jogos. Atualmente, estou cursando
 
 - **LinkedIn:** [Seu Perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulo-roberto-vasques-valle-a37600274/))
 
-## 📄 Licença
-
-Este repositório está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 <!--
 **PauloVvalle/PauloVvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
